@@ -7,6 +7,7 @@
 -- Versión del servidor: 10.4.6-MariaDB
 -- Versión de PHP: 7.3.9
 CREATE DATABASE parking;
+
 USE parking;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
